@@ -4,6 +4,6 @@
 </head>
 <body>
 <h2>Abput page!</h2>
-<p>This is the details about the page</p>
+<p>This is the details about page</p>
 </body>
 </html>
